@@ -1,0 +1,13 @@
+# Data
+*.xlsx
+*.csv
+# Keep the processed one if it's small, but usually we ignore data. 
+# Let's keep processed_online_retail.csv for now as it's the output, unless it's huge. 
+# Actually, better to ignore all data to be safe and only commit code.
+processed_online_retail.csv
+
+# System
+__pycache__/
+*.pyc
+.DS_Store
+.vscode/
