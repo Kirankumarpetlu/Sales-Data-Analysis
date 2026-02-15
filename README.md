@@ -80,5 +80,14 @@ This will open the dashboard in your default browser (usually http://localhost:8
 ![Top 10 Products](assets/top_products.png)
 *Figure 4: Top 10 Products by Revenue*
 
+![Recency Distribution](assets/recency_dist.png)
+*Figure 5: Recency Distribution (Days since last purchase)*
+
+![Frequency Distribution](assets/frequency_dist.png)
+*Figure 6: Frequency Distribution (Number of purchases)*
+
+![Monetary Distribution](assets/monetary_dist.png)
+*Figure 7: Monetary Distribution (Total Revenue)*
+
 ---
 *Created by [Kiran Kumar]*
