@@ -74,20 +74,23 @@ This will open the dashboard in your default browser (usually http://localhost:8
 ![Customer Segments](assets/customer_segments.png)
 *Figure 2: Customer Segmentation Distribution*
 
+![Revenue by Segment](assets/revenue_by_segment.png)
+*Figure 3: Total Revenue by Customer Segment*
+
 ![Top 10 Countries](assets/top_countries.png)
-*Figure 3: Top 10 Countries by Revenue*
+*Figure 4: Top 10 Countries by Revenue*
 
 ![Top 10 Products](assets/top_products.png)
-*Figure 4: Top 10 Products by Revenue*
+*Figure 5: Top 10 Products by Revenue*
 
 ![Recency Distribution](assets/recency_dist.png)
-*Figure 5: Recency Distribution (Days since last purchase)*
+*Figure 6: Recency Distribution (Days since last purchase)*
 
 ![Frequency Distribution](assets/frequency_dist.png)
-*Figure 6: Frequency Distribution (Number of purchases)*
+*Figure 7: Frequency Distribution (Number of purchases)*
 
 ![Monetary Distribution](assets/monetary_dist.png)
-*Figure 7: Monetary Distribution (Total Revenue)*
+*Figure 8: Monetary Distribution (Total Revenue)*
 
 ---
 *Created by [Kiran Kumar]*
