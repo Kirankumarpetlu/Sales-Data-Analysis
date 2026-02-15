@@ -68,11 +68,17 @@ This will open the dashboard in your default browser (usually http://localhost:8
 - **Product Performance**: Identification of top-selling products.
 
 ## 📈 Visualizations
-The project includes visualizations for:
-- Monthly Revenue Trends (Seasonality analysis).
-- Customer Segmentation Distribution (Pie/Donut charts).
-- Top 10 Countries by Revenue (Bar/Map).
-- Top 10 Products by Revenue (Bar).
+![Monthly Revenue Trend](assets/monthly_trend.png)
+*Figure 1: Monthly Revenue Trend*
+
+![Customer Segments](assets/customer_segments.png)
+*Figure 2: Customer Segmentation Distribution*
+
+![Top 10 Countries](assets/top_countries.png)
+*Figure 3: Top 10 Countries by Revenue*
+
+![Top 10 Products](assets/top_products.png)
+*Figure 4: Top 10 Products by Revenue*
 
 ---
 *Created by [Kiran Kumar]*
