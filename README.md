@@ -92,5 +92,12 @@ This will open the dashboard in your default browser (usually http://localhost:8
 ![Monetary Distribution](assets/monetary_dist.png)
 *Figure 8: Monetary Distribution (Total Revenue)*
 
+
+<img width="885" height="696" alt="image" src="https://github.com/user-attachments/assets/ea891844-f02c-48ec-b56e-3f81b94336d2" />
+
+<img width="695" height="715" alt="image" src="https://github.com/user-attachments/assets/c570e727-1627-45f4-b66a-8abc8fdfb123" />
+
+
+
 ---
 *Created by [Kiran Kumar]*
